@@ -17,10 +17,12 @@ This lab demonstrates how to investigate an SSH brute-force attack using Splunk 
 
 
 ---
-### 1)
+### 1#3)
 <img width="2825" height="1249" alt="image" src="https://github.com/user-attachments/assets/64c249ea-392b-4dee-a722-75c5d338f921" />
 
 
+### 2)
+<img width="2801" height="545" alt="image" src="https://github.com/user-attachments/assets/6313d187-aeee-4f9e-bc3c-157d69fedc20" />
 
 
 
